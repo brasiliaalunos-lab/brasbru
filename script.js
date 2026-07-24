@@ -35,7 +35,7 @@ const perguntas = [
 { pergunta: "a musica voando baixo quem feis", opcoes: ["A}rincon", "B}matue", "natanzinho", "marcus"], resposta: "natanzinho" },
 { pergunta:" qual o nome do artista que canta a musica 777 666? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "A}matue" },
 { pergunta: "a musica nosso juramento quem criou", opcoes: ["A}mainha dobrega", "B}natanzinho", "C}rincon", "D}henrique"], resposta: "A}mainha dobrega" },
-{ pergunta: "", opcoes: ["", "", "", "o mome o pofessor", "pedro"], resposta: "pedro" }
+{ pergunta: "", opcoes: ["italo", "lucio costa", "bruno", "pedro"], resposta: "pedro" }
 
 ];
     
