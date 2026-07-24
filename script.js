@@ -33,7 +33,7 @@ const perguntas = [
 { pergunta: "quem criou o bolsa escola?", opcoes: ["A}Fernando Haddad", "B}Fernando Henrique Cardoso", "C}Karl Benz", "D}Gottlieb Daimler e Wca sexta-feira quem e o criador"], resposta:"Fernando Hadadd"},
 { pergunta: "kkkkkkk", opcoes: ["A}Adan Lellis", "B}hunria", "C}rincon", "D}yago oproprio"], resposta: "A}Adan Lellis" },
 { pergunta: "a musica voando baixo quem feis", opcoes: ["A}rincon", "B}matue", "natanzinho", "marcus"], resposta: "natanzinho" },
-{ pergunta:" qual o nome do artista que canta a musica 777 666? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "matue" },
+{ pergunta:" qual o nome do artista que canta a musica 777 666? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "A}matue" },
 { pergunta: "a musica nosso juramento quem criou", opcoes: ["A}mainha dobrega", "B}natanzinho", "C}rincon", "D}henrique"], resposta: "A}mainha dobrega" },
 { pergunta: "", opcoes: ["", "", "", "o mome o pofessor", "pedro"], resposta: "pedro" }
 
