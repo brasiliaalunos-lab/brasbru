@@ -25,17 +25,17 @@ if (isQuizPage) {
 
 const perguntas = [
 { pergunta: "quem criou o roblox?", opcoes: ["A}vietnamita 111dots Studio ", "B}David Baszucki e Erik Cassel", "C}Fernando Henrique Cardoso ", "D}William George Morgan"], resposta: "B}David Baszucki e Erik Cassel"},
-{ pergunta: "a musicar 777 666 e de? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "A}matue" },
+{ pergunta: "a musica 777 666 é de quem? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "A}matue" },
 { pergunta: "quem criou o youtube?", opcoes: ["A} Chad Hurley, Steve Chen e Jawed Karim", "B} Bill Gates", "C}Steve Jobs", "D}Mark Zuckerberg"], resposta: "A}Chad Hurley, Steve Chen e Jawed Karim" },
 { pergunta: "quem criou o google?", opcoes: ["A}Larry Page e Sergey Brin", "B}marilia mendonça", "C}Chad Hurley, Steve Chen e Jawed Karim", "D}Ebenezer Cobb Morley"], resposta: "A}Larry Page e Sergey Brin" },
 { pergunta: " quem criou a musica 67? ", opcoes: ["A}Skrilla", "B}matue", "C}henrique e juliano", "D}mc rian sp"], resposta: "A}Skrilla" },
-{ pergunta: "a musica maquina do tempo quem criou", opcoes: ["A}matue", "B}Brincon", "C}tribo da periferia;", "D}racionais"], resposta: "A}matue" },
+{ pergunta: "a musica maquina do tempo quem criou?", opcoes: ["A}matue", "B}Brincon", "C}tribo da periferia;", "D}racionais"], resposta: "A}matue" },
 { pergunta: "quem criou o bolsa escola?", opcoes: ["A}Fernando Haddad", "B}Fernando Henrique Cardoso", "C}Karl Benz", "D}Gottlieb Daimler e Wca sexta-feira quem e o criador"], resposta:"Fernando Hadadd"},
-{ pergunta: "kkkkkkk", opcoes: ["A}Adan Lellis", "B}hunria", "C}rincon", "D}yago oproprio"], resposta: "A}Adan Lellis" },
-{ pergunta: "a musica voando baixo quem feis", opcoes: ["A}rincon", "B}matue", "natanzinho", "marcus"], resposta: "natanzinho" },
+{ pergunta: "", opcoes: ["A}Adan Lellis", "B}hunria", "C}rincon", "D}yago oproprio"], resposta: "A}Adan Lellis" },
+{ pergunta: "a musica voando baixo quem fez", opcoes: ["A}rincon", "B}matue", "natanzinho", "marcus"], resposta: "natanzinho" },
 { pergunta:" qual o nome do artista que canta a musica 777 666? ", opcoes: ["A}matue", "B}henrique e juliano", "C}mc rian sp", "D}hungria"], resposta: "A}matue" },
 { pergunta: "a musica nosso juramento quem criou", opcoes: ["A}mainha dobrega", "B}natanzinho", "C}rincon", "D}henrique"], resposta: "A}mainha dobrega" },
-{ pergunta: "", opcoes: ["italo", "lucio costa", "bruno", "pedro"], resposta: "pedro" }
+{ pergunta: "O nome do professor é:", opcoes: ["italo", "lucio costa", "bruno", "pedro"], resposta: "pedro" }
 
 ];
     
